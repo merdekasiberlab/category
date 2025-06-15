@@ -2,6 +2,8 @@
 
 **category** adalah aplikasi Windows “satu-klik” yang secara otomatis mengelompokkan file di folder Downloads Anda ke dalam sub-folder berdasarkan kategori dan ekstensi—tanpa perlu hak admin atau konfigurasi rumit.
 
+> 🔒 **100% kode aman**: semua skrip bersifat open-source, tanpa backdoor atau malware.
+
 ### 📦 Asset
 - **category.exe** – Installer EXE satu-klik (tanpa perlu hak admin).  
 
